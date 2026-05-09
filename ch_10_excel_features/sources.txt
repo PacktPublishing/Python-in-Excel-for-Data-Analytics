@@ -1,0 +1,5 @@
+https://stringfestanalytics.com/here-are-some-excel-features-you-should-know-to-get-the-most-of-python-in-excel/
+
+https://stringfestanalytics.com/python-in-excel-how-to-create-moving-averages/
+
+https://stringfestanalytics.com/how-to-create-dynamic-measures-in-excel-with-python-in-excel/
